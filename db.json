@@ -11,5 +11,6 @@
             "fee": 150
           }
     ],
-    "users":[]
+    "users":[],
+    "appointments":[]
 }
